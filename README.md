@@ -45,6 +45,7 @@ Open `index.html` in your web browser.
 No additional dependencies or installation are required.
 
 Visit Site ⏬
+
 https://zaeemdanish007-hub.github.io/todo-list/
 
 ## 🎯 Purpose
@@ -60,7 +61,7 @@ This project was created as a beginner-friendly JavaScript project to practice:
 
 ## 📸 Preview
 
-![To-Do List Preview](todo list.png)
+![To-Do List Preview](./todo%20list.png)
 
 ## 🔮 Future Improvements
 
